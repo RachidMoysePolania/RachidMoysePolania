@@ -42,7 +42,7 @@
 <a href="mailto: rachidmoyse1@hotmail.com">
  <img src="https://img.shields.io/badge/-rachid-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rachidmoyse1@hotmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+<a href="https://www.linkedin.com/in/rachid-moyse-polania-49b8b6125/">
  <img src="https://img.shields.io/badge/-rachid%20moyse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachid-moyse-polania-49b8b6125/"/>
 </a>
 </p>
