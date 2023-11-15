@@ -1,9 +1,7 @@
-
-<!--  https://ritik307.github.io/portfolio/  -->
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+<img src="https://github.com/ritik307/ritik307/blob/main/images/header_.png" />
 
 <p align="center">
  
@@ -15,7 +13,7 @@
 </p>
 
 <!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
+  I'm a 3rd year student pursuing Master's in Systems Engineering 🎓 from Areandina University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Exploit 🕸️ Development, DevOps and DevSecOps.
 </p>   -->
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
