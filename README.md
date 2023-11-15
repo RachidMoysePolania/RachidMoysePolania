@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon"/>
 <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
-<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Azure"/>
+<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft%20Azure"/>
 <img src="https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform"/>
 <img src="https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=Ansible"/>
 <img src="https://img.shields.io/badge/-Hacking-black?style=flat-square&logo=Hacking"/>
