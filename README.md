@@ -19,21 +19,22 @@
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/-go-black?style=flat-square&logo=go"/>
-<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon"/>
-<img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust"/>
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
-<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft%20Azure"/>
-<img src="https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform"/>
-<img src="https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=Ansible"/>
-<img src="https://img.shields.io/badge/-Hacking-black?style=flat-square&logo=Hacking"/>
-<img src="https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=CircleCI"/>
-<img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes"/>
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker"/>
-<img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=Bash"/>
-<img src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=Powershell"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-UNIX-black?style=flat-square&logo=Linux"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="ArgoCD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" />
+<img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+<img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
